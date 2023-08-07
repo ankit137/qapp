@@ -1,5 +1,5 @@
 # qapp
-<a href="url"><img src="https://github.com/ankit137/qapp/assets/103433848/32bb0680-719e-46d8-94fa-7c751579fba6" align="left" height="48" width="48" ></a>
+ <img src="url" alt="https://github.com/ankit137/qapp/assets/103433848/32bb0680-719e-46d8-94fa-7c751579fba6" width="whatever" height="whatever">
 ![Screenshot_20230807_225517](https://github.com/ankit137/qapp/assets/103433848/32bb0680-719e-46d8-94fa-7c751579fba6)
 ![Screenshot_20230807_225510](https://github.com/ankit137/qapp/assets/103433848/c1d934ac-0cb2-434b-a45c-ace222b66f94)
 ![Screenshot_20230807_225500](https://github.com/ankit137/qapp/assets/103433848/978f7b68-7bdf-4793-ae99-9ac04ed5c1a5)
